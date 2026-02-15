@@ -1,5 +1,5 @@
 # BiblioZen VR 📚
-
+PROJET REALISE EN GROUPE
 ## 1. Problématique
 **"Comment transformer l'accès à la culture numérique en une expérience sensorielle et calme, loin des distractions des interfaces web classiques ?"**
 
